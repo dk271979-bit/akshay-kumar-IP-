@@ -1,2 +1,2 @@
-# akshay-kumar-IP-
-this repository is created for ip project for uploading code
+# akshay-kumar-IP- project
+this repository is created for ip project for uploading source code
